@@ -1,36 +1,36 @@
-S.No.,State_UT,HIV_Cases,HIV_Cases_Scaling
-1,Arunachal Pradesh,686.0,1.02
-2,Assam,25073.0,1.63
-3,Bihar,142793.0,4.58
-4,Chhattisgarh,39626.0,1.99
-5,Delhi,55801.0,2.4
-6,Goa,4596.0,1.12
-7,Gujarat,113532.0,3.85
-8,Himachal Pradesh,7139.0,1.18
-9,Haryana,49976.0,2.25
-10,Jharkhand,24671.0,1.62
-11,Lakshadweep,0.0,1.0
-12,Ladakh,142.0,1.0
-13,Jammu & Kashmir,6385.0,1.16
-14,Karnataka,275880.0,7.92
-15,Kerala,21211.0,1.53
-16,Meghalaya,8692.0,1.22
-17,Maharashtra,3948077.0,100.0
-18,Manipur,27989.0,1.7
-19,Madhya Pradesh,54773.0,2.37
-20,Mizoram,23802.0,1.6
-21,Nagaland,21730.0,1.54
-22,Odisha,52109.0,2.31
-23,Punjab,72954.0,2.83
-24,Rajasthan,67186.0,2.68
-25,Sikkim,468.0,1.01
-26,TamilNadu,162857.0,5.08
-27,Tripura,3608.0,1.09
-28,Uttarakhand,14327.0,1.36
-29,Uttar Pradesh,178134.0,5.47
-30,West Bengal,69199.0,2.74
-31,Andaman and Nicobar islands,426.0,1.01
-32,Chandigarh,1921.0,1.05
-33,Dadar and Nagar Haveli and Daman qnd Diu,1543.0,1.04
-34,Puducherry,3962.0,1.1
-35,Telangana,755994.0,19.96
+S.No.,State_UT,HIV_Cases,HIV_Cases_Scaling,Code
+1,Arunachal Pradesh,686,1.02,AR
+2,Assam,25073,1.63,AS
+3,Bihar,142793,4.58,BR
+4,Chhattisgarh,39626,1.99,CG
+5,Delhi,55801,2.4,DL
+6,Goa,4596,1.12,GA
+7,Gujarat,113532,3.85,GJ
+8,Himachal Pradesh,7139,1.18,HP
+9,Haryana,49976,2.25,HR
+10,Jharkhand,24671,1.62,JH
+11,Lakshadweep,0,1.0,LD
+12,Ladakh,142,1.0,LA
+13,Jammu & Kashmir,6385,1.16,JK
+14,Karnataka,275880,7.92,KA
+15,Kerala,21211,1.53,KL
+16,Meghalaya,8692,1.22,ML
+17,Maharashtra,3948077,100.0,MH
+18,Manipur,27989,1.7,MN
+19,Madhya Pradesh,54773,2.37,MP
+20,Mizoram,23802,1.6,MZ
+21,Nagaland,21730,1.54,NL
+22,Odisha,52109,2.31,OD
+23,Punjab,72954,2.83,PB
+24,Rajasthan,67186,2.68,RJ
+25,Sikkim,468,1.01,SK
+26,TamilNadu,162857,5.08,TN
+27,Tripura,3608,1.09,TR
+28,Uttarakhand,14327,1.36,UK
+29,Uttar Pradesh,178134,5.47,UP
+30,West Bengal,69199,2.74,WB
+31,Andaman and Nicobar islands,426,1.01,AN
+32,Chandigarh,1921,1.05,CH
+33,Dadar and Nagar Haveli and Daman qnd Diu,1543,1.04,DNHDD
+34,Puducherry,3962,1.1,PY
+35,Telangana,755994,19.96,TS
