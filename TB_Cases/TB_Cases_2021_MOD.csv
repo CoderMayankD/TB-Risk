@@ -17,7 +17,7 @@ S.No.,State_UT,TB_Cases,TB_Cases_Scaling,Code
 16,Karnataka,71442,16.21,KA
 17,Kerala,22024,5.69,KL
 18,Ladakh,319,1.06,LA
-19,Lakshadweep,20,1.0,LD
+19,Lakshadweep,20,1,LD
 20,Madhya Pradesh,168248,36.83,MP
 21,Maharashtra,196595,42.86,MH
 22,Manipur,1874,1.39,MN
@@ -32,6 +32,6 @@ S.No.,State_UT,TB_Cases,TB_Cases_Scaling,Code
 31,Tamil Nadu,85010,19.1,TN
 32,Telangana,60924,13.97,TS
 33,Tripura,2777,1.59,TR
-34,Uttar Pradesh,464899,100.0,UP
+34,Uttar Pradesh,464899,100,UP
 35,Uttarakhand,23576,6.02,UK
 36,West Bengal,91512,20.48,WB
