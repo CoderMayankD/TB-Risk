@@ -1,2 +1,6 @@
 1. Demography_2021 is done 🟢
+<<<<<<< HEAD
+2. visualization 
+=======
 2.  
+>>>>>>> 6ce9e41b5d2d8e8db066c7744bbf5b07f77c9bc0
